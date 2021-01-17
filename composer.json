@@ -1,0 +1,19 @@
+{
+    "name": "xuntee/easy-admin",
+    "description": "easy-admin",
+    "authors": [
+        {
+            "name": "朱兵",
+            "email": "nx740@qq.com"
+        }
+    ],
+    "license":"MIT",
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "apanly\\easy-admin\\": "src"
+        }
+    }
+}
