@@ -3,7 +3,7 @@
     "description": "easy-admin",
     "authors": [
         {
-            "name": "朱兵",
+            "name": "xuntee",
             "email": "nx740@qq.com"
         }
     ],
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "EasyAdmin": "src"
+            "EasyAdmin\\": "src"
         }
     }
 }
